@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\bin\Debug\Hit this key.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\bin\Debug\Hit this key.exe
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\bin\Debug\Hit this key.pdb
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit this key.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit_this_key.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit_this_key.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit this key.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit this key.exe
+c:\users\user\documents\visual studio 2012\Projects\Hit this key\Hit this key\obj\Debug\Hit this key.pdb
